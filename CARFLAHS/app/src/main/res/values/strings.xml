@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CARFLAHS</string>
+    <string name="txt_view_String">Ingresar como :</string>
+    <string name="button_conductor">Conductor</string>
+    <string name="button_pasajero">Pasajero</string>
+
 </resources>
