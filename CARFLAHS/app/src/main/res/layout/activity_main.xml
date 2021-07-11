@@ -40,6 +40,8 @@
         android:layout_marginEnd="124dp"
         android:backgroundTint="#0008F9"
         android:text="@string/button_conductor"
+        android:textStyle="bold"
+        android:typeface="serif"
         app:cornerRadius="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView" />
@@ -52,6 +54,8 @@
         android:layout_marginEnd="124dp"
         android:backgroundTint="#0008F9"
         android:text="@string/button_pasajero"
+        android:textStyle="bold"
+        android:typeface="serif"
         app:cornerRadius="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView" />

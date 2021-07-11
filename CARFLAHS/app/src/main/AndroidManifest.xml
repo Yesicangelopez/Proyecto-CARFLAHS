@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CARFLAHS">
-        <activity android:name=".ActivityPasajero"></activity>
+        <activity android:name=".ActivityRegistro"></activity>
+        <activity android:name=".ActivityPasajero" />
         <activity android:name=".ActivityConductor" />
         <activity
             android:name=".MainActivity"
